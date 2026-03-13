@@ -127,22 +127,23 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** PHILLIP PHIRI
+**Student ID:** 2022064381
+**Design Theme:** The theme uses earthy green tones with a warm beige background and dark charcoal accents, creating a natural, calm, and professional visual style with strong contrast for readability.
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [-] CSS Custom Properties
+- [-] Flexbox
+- [-] CSS Grid
+- [-] Media Queries
+- [ ] Other: ___Dark mode toggling____________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+- The challenges i faced where to do with how exactly to use the display properties, Flexbox and Grid, and also figuring out which will be more useful for a certain part. The solution i found for this challenge was to try both then keep the one that looked more appealing and formal.
+- Another challenge was on the media queries. I found it difficult to know which style will be appropriate for different screen sizes. I solved the problem by trying out the designs for different sizes.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+All but one of the pictures used in this assignment are self created. The one that isn't was sourced from unsplash.com
 
 ---
 
